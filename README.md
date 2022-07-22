@@ -1,8 +1,10 @@
-## Oi, eu sou o Robson Amorim, um cara apaixonado por tecnologia! 🤖💻
+## Oi, eu sou o Robson Amorim, apaixonado por tecnologia! (💻💖☕)
+
+
 <div align="center">
   <a href="https://github.com/robsonamorimdev/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsonamorimdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonamorimdev&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsonamorimdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonamorimdev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -23,3 +25,4 @@
 
 
   ![Snake animation](https://github.com/robsonamorimdev/robsonamorimdev/blob/output/github-contribution-grid-snake.svg)
+
